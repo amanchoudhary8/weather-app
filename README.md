@@ -7,4 +7,4 @@ Simple weather app using HTML, CSS, and JavaScript.
   
     
      
-Link to Live Project: https://amanchoudhary8.github.io/weather-app/
+Live version of the project: https://amanchoudhary8.github.io/weather-app/  
