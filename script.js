@@ -51,4 +51,4 @@ document
     }
   });
 
-weather.fetchWeather("Provence");
+weather.fetchWeather("Gurgaon");
